@@ -55,5 +55,5 @@ const ContactPage = () => {
     </div>
   );
 };
-
+// FIXED THE SCROLL BAR AND MADE RESPONSIVE
 export default ContactPage;
