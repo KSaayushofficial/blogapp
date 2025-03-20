@@ -1,6 +1,11 @@
 import Image from "next/image";
 import React from "react";
 
+export const metadata = {
+  title: "Contact Page",
+  description: "Contact Details",
+}; 
+
 const ContactPage = () => {
   return (
     <div className="flex flex-col lg:flex-row items-center justify-between gap-12 px-10 py-20 ">
